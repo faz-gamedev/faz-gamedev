@@ -1,15 +1,15 @@
-## 👋 سلام، من فاضل هستم
+## 👋 Hi, I'm Fazel
 
-توسعه‌دهنده بازی با تمرکز روی **C#**، موتور **Unity** و طراحی سه‌بعدی با **Blender**.
-
----
-
-### 🛠 مهارت‌ها:
-
-- ✅ برنامه‌نویسی با `C#` برای ساخت بازی‌ها و ابزارها  
-- 🎮 تجربهموتور بازی‌سازی `Unity`  
-- 🧊 طراحی مدل‌های سه‌بعدی و انیمیشن با `Blender`  
+Game developer focused on **C#**, **Unity Engine**, and **3D design with Blender**.
 
 ---
 
-📫 برای ارتباط با من از طریق GitHub یا ایمیل در تماس باشید.
+### 🛠 Skills:
+
+- ✅ Programming with `C#` for game development and tools  
+- 🎮 Experienced with `Unity` game engine  
+- 🧊 3D modeling and animation using `Blender`  
+
+---
+
+📫 Feel free to reach out to me via GitHub or email.
