@@ -1,5 +1,6 @@
 # 💫 About Me:
-Game developer focused on C#, Unity Engine, and 3D design with Blender.
+Game developer focused on C#, Unity Engine.
+
 
 
 ## 🌐 Socials:
